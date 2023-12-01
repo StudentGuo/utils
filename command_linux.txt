@@ -1,0 +1,8 @@
+-- read SSH of ubuntu
+    cat ~/.ssh/id_rsa.pub
+
+-- establised shared folder in virtualBox
+    sudo mount -t vboxsf share sharing
+
+-- clone reposition
+    git clone https://github.com/StudentGuo/utils.git
